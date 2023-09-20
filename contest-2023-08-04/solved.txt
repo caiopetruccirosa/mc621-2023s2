@@ -1,0 +1,12 @@
+DURING = 3
+    A
+    E
+    F
+
+AFTER = 0
+
+DONE = 3
+
+REMAINING = 10
+
+TOTAL = 13

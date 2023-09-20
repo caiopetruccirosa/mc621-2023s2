@@ -1,0 +1,15 @@
+DURING = 6
+    B
+    C
+    E
+    G
+    H
+    I
+
+AFTER = 0
+
+DONE = 6
+
+REMAINING = 4
+
+TOTAL = 10
