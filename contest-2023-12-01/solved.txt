@@ -1,0 +1,13 @@
+DURING = 4
+    I
+    A
+    C
+    J
+
+AFTER = 0
+
+DONE = 4
+
+REMAINING = 7
+
+TOTAL = 11
